@@ -1,3 +1,13 @@
+# TODO LIST
+
+A todo list pplication was build using React library. The app prompts the user to add the tasks for the day which can be marked as done indicated by strike-through
+style on the list item. There is also an option to delete the item from the list of tasks. 
+
+## screenshot
+
+![](images/react-todo.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
